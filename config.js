@@ -31,7 +31,7 @@ global.APIKeys = {
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
 global.info = {
 	nomorbot: '62882257504889',
-	nomorown: '6281283516246',
+	nomorown: '6282147781510',
 	namebot: 'Assisten YuLa',
 	nameown: 'Maximus Store',
 	channel: '120363241570452835@newsletter',
@@ -43,12 +43,12 @@ global.info = {
 /*============ OWNER ============*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
 global.owner = [
-['6281283516246', 'Maximus', 'true'], // Boleh di ganti
-['6281283516246', 'Maximus', 'true'] // Jangan di ganti 
+['6282147781510', 'Maximus', 'true'], // Boleh di ganti
+['6282147781510', 'Maximus', 'true'] // Jangan di ganti 
 ]
 
 global.mods = ['6288225750488'] // Opsional boleh ganti atau tidak 
-global.prems = ['6281283516246', '6288225750488'] // Opsional boleh ganti atau tidak 
+global.prems = ['6282147781510', '6288225750488'] // Opsional boleh ganti atau tidak 
 
 
 
